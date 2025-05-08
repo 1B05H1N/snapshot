@@ -1,0 +1,8 @@
+# External dependencies for snapshot.sh
+jq
+curl
+git
+awk
+# Optional for IaC scanning
+tfsec
+kube-linter 
